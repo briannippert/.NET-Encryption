@@ -16,3 +16,12 @@ D:\_Programs\Encryptor\crypto\obj\Debug\crypto.Properties.Resources.resources
 D:\_Programs\Encryptor\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
 D:\_Programs\Encryptor\crypto\obj\Debug\crypto.exe
 D:\_Programs\Encryptor\crypto\obj\Debug\crypto.pdb
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\bin\Debug\crypto.exe.config
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\obj\Debug\crypto.exe
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\obj\Debug\crypto.pdb
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\bin\Debug\crypto.exe
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\bin\Debug\crypto.pdb
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\obj\Debug\crypto.Encryptor.resources
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\obj\Debug\crypto.Properties.Resources.resources
+C:\Users\Brian\Documents\GitHub\.NET-Encryption\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
